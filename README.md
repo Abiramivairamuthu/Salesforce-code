@@ -1,1 +1,1 @@
-# Salesforce-code
+"Trailhead starter shows lightning platform"
